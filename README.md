@@ -96,4 +96,4 @@ npm start
 
 ---
 
-               MADE WITH LOVE - JITENDRA YADAV
+               MADE BY - JITENDRA YADAV
